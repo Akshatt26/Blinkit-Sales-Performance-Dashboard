@@ -76,7 +76,7 @@ The data was cleaned and transformed using **Power Query** before being modeled 
 
 ---
 
-# 6. Features / Highlights
+# 6. Features
 
 ## 🔹 Business Problem
 
