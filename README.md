@@ -354,11 +354,3 @@ The visuals update dynamically based on the selected filters.
 
 ---
 
-# 13. Project Files
-
-```text
-Blinkit-Sales-Performance-Dashboard/
-│
-├── README.md
-├── Blinkit Sales Performance Dashboard.pbix
-└── Snapshot of Blinkit Sales Performance Dashboard.png
