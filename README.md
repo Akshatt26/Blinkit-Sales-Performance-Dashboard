@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze Blinkit's sales performanc
 
 ---
 
-## 1. Project Title / Headline
+## 1. Project
 
 ### 🛒 Blinkit Sales Performance Dashboard
 
@@ -14,7 +14,7 @@ The dashboard provides a consolidated view of key business metrics and enables u
 
 ---
 
-## 2. Short Description / Purpose
+## 2. Description
 
 The **Blinkit Sales Performance Dashboard** is a Power BI analytics project developed to evaluate sales performance, customer satisfaction, and inventory distribution.
 
